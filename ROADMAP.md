@@ -1,4 +1,4 @@
-# Kgateway roadmap
+# Kagent roadmap
 
 The roadmap provides a high level overview of major work being planned, designed or implemented. This is the result of feedback from the community and agreed upon by project maintainers. 
 
