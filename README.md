@@ -35,4 +35,4 @@ Review the following resources to contribute to the kgateway project.
 
 ## Governance
 
-For the kgateway community's governance model, review the [`GOVERNANCE.md` file](GOVERNANCE.md).
+For the kgateway community's governance model, review the [governance file](GOVERNANCE.md).
