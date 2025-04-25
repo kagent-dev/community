@@ -1,4 +1,4 @@
-# Kgateway maintainers
+# Kagent maintainers
 
 ## Active
 
