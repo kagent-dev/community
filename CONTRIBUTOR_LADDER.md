@@ -19,7 +19,7 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 
 * Responsibilities include:
     * Following the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
-    * Following the project [contributing guide](CONTRIBUTING.md)
+    * Following the project [contributing guide](https://github.com/kagent-dev/kagent/blob/main/CONTRIBUTION.md)
 * Requirements (one or several of the below):
     * Report issues
     * Show up at meetings, takes notes
