@@ -15,7 +15,7 @@ If you're interested in participating with the kagent community, come talk to us
 * Subscribe to the [kagent community calendar](https://calendar.google.com/calendar/u/0?cid=Y183OTI0OTdhNGU1N2NiNzVhNzE0Mjg0NWFkMzVkNTVmMTkxYTAwOWVhN2ZiN2E3ZTc5NDA5Yjk5NGJhOTRhMmVhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 * We are available in the [kagent discord](https://discord.com/invite/Fu3k65f2k3)
 * We are available in the [CNCF #kagent slack channel](https://cloud-native.slack.com/archives/C08ETST0076), which requires join the [CNCF slack](https://communityinviter.com/apps/cloud-native/cncf) if you are not a member yet.
-* To report security issues, please follow our [vulnerability disclosure best practices](CVE.md)
+* To report security issues, please follow our [vulnerability disclosure best practices](SECURITY.md)
 * Find more information on the [kagent website](https://kagent.io/)
 
 ## Community Meetings
