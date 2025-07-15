@@ -10,6 +10,7 @@ Please keep the table sorted.
 | ---- | ---- | ---- | ---- |
 | Art Berger | artberger | Docs | Solo.io |
 | Eitan Yarmush | EItanya | kagent | Solo.io |
+| Dmytro Rashko  | dimetron | tools | Amdocs |
 | Lin Sun | linsun | Community, Docs | Solo.io |
 | Nadine Spies | Nadine2016 | Docs | Solo.io |
 | Peter Jausovec | peterj | kagent, UI | Solo.io |
