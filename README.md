@@ -1,7 +1,5 @@
 # Kagent Community
 
-##  🔥 NOTE: This project is in the process of being donated to the CNCF. 🔥
-
 Welcome! Kagent is excited you are interested in our community.
 
 Kagent is a Kubernetes native framework for building AI agents. Kubernetes is the most popular orchestration platform for running workloads, and kagent makes it easy to build, deploy and manage AI agents in kubernetes. The kagent framework is designed to be easy to understand and use, and to provide a flexible and powerful way to build and manage AI agents.
