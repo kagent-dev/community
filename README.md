@@ -26,8 +26,8 @@ Recordings of the community meetings will be published on our [google drive](htt
 
 Review the following resources to contribute to the kagent project.
 
-* For **code** contributions, review the [contribution guide](https://github.com/kagent-dev/kagent/blob/main/CONTRIBUTION.md).
-* For **doc** contributions, review the [Doc contributions guide](https://github.com/kagent-dev/kagent/blob/main/CONTRIBUTION.md#documentation).
+* For **code** contributions, review the [contribution guide](https://github.com/kagent-dev/kagent/blob/main/CONTRIBUTING.md).
+* For **doc** contributions, review the [Doc contributions guide](https://github.com/kagent-dev/website/blob/main/CONTRIBUTION.md).
 
 ## Governance
 
