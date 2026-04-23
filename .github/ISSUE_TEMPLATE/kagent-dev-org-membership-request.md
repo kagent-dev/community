@@ -19,7 +19,7 @@ Company affiliation:
 
 Requirements:
 
-- [ ] I have reviewed the project [contributing guide](https://github.com/kagent-dev/kagent/blob/main/CONTRIBUTION.md)
+- [ ] I have reviewed the project [contributing guide](https://github.com/kagent-dev/kagent/blob/main/CONTRIBUTING.md)
 - [ ] I have enabled [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) on my GitHub account
 - [ ] I have joined the [kagent discord](https://discord.com/invite/Fu3k65f2k3)
 
