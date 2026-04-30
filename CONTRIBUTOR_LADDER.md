@@ -41,6 +41,7 @@ An Organization Member must meet the responsibilities and has the requirements o
     * Must have successful contributions to the project, including at least one merged PR.
     * Must be member of the [kagent discord](https://slack.cncf.io).
     * Must have [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) enabled on your GitHub account.
+    * Must attend community meeting at least once to meet with other members/maintainers. Frequent attendance is encouraged. (If the meeting time is too inconvenient, please reach out via discord and we can work something out.)
 * Privileges:
     * May be assigned Issues and Reviews.
     * May give commands to CI/CD automation.
@@ -65,7 +66,7 @@ A Maintainer must meet the responsibilities and requirements of an Organization 
     * Has at least 20 substantial PRs merged to the codebase
     * Demonstrates a broad knowledge of the project across multiple areas
 * Additional privileges:
-    * Has GitHub or CI/CD rights to approve pull requests in specific directories
+    * Has GitHub or CI/CD rights to approve pull requests in specific directories (code ownership)
     * Can recommend and review other contributors to become Maintainers
     * Represents the project in public as a Maintainer
     * Has a vote in Maintainer decision-making discussions
