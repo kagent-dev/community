@@ -24,5 +24,5 @@ This may include links to GitHub issues and/or GitHub queries showing significan
 **Requirements:**
 
 - [ ] The nominee has met all requirements to be a Maintainer, as outlined in the [contributor ladder](https://github.com/kagent-dev/community/blob/main/CONTRIBUTOR_LADDER.md#maintainer)
-- [ ] I have added the nominee to the list of active maintainers in [MEMBERS.md](https://github.com/kagent-dev/community/blob/main/MEMBERS.md)
+- [ ] I have added the nominee to the list of active maintainers in [MAINTAINERS.md](https://github.com/kagent-dev/community/blob/main/MAINTAINERS.md)
 - [ ] The nominee has added a comment to this PR testifying that they agree to the requirements of becoming a Maintainer, e.g. `I agree to all of the responsibilities and requirements of being a kagent-dev maintainer`.
