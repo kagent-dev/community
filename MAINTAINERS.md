@@ -1,4 +1,6 @@
-# Kagent maintainers
+# Kagent community members
+
+## Maintainers
 
 ## Active
 
@@ -16,3 +18,13 @@ Please keep the table sorted.
 | Peter Jausovec | peterj | kagent, UI | Solo.io |
 | Scott Weiss | ilackarms | kagent | Solo.io |
 | Yuval Kohavi | yuval-k | kagent | Solo.io |
+
+## Reviewers
+
+| Reviewer | GitHub ID | Specialization Areas | Company Affiliation |
+| ---- | ---- | ---- | ---- |
+
+## Contributors
+
+| Contributor | GitHub ID | Specialization Areas | Company Affiliation |
+| ---- | ---- | ---- | ---- |

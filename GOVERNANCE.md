@@ -25,7 +25,7 @@ The kagent project embraces the following values:
 Our governance builds on top of definitions from other documents, review the following files for relevant information:
 
 * [CONTRIBUTOR_LADDER.md](./CONTRIBUTOR_LADDER.md) for the different roles with the project.
-* [MAINTAINERS.md](./MAINTAINERS.md) for the project maintainers, including their organizational affiliation.
+* [MAINTAINERS.md](./MAINTAINERS.md) for the project members at all tiers, including their organizational affiliation.
 * [Code of Conduct](./CODE-OF-CONDUCT.md) for our code of conduct.
 
 ## Voting
