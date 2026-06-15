@@ -23,6 +23,7 @@ Please keep the table sorted.
 
 | Reviewer | GitHub ID | Specialization Areas | Company Affiliation |
 | ---- | ---- | ---- | ---- |
+| Mesut Oezdil | mesutoezdil | kagent | Adfinis |
 
 ## Contributors
 
