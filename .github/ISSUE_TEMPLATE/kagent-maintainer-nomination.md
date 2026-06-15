@@ -10,7 +10,7 @@ assignees: ''
 # Maintainer Nomination
 
 <!--
-This template should be used by a current Maintainer to nominate a current Organization Member to become a Maintainer in one or more repositories within the kagent-dev organization.
+This template should be used by a current Maintainer to nominate a current Reviewer to become a Maintainer in one or more repositories within the kagent-dev organization.
 -->
 
 **Nominee's GitHub user ID:** 

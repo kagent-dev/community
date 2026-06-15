@@ -19,9 +19,9 @@ Please keep the table sorted.
 | Scott Weiss | ilackarms | kagent | Solo.io |
 | Yuval Kohavi | yuval-k | kagent | Solo.io |
 
-## 
+## Reviewers
 
-| Contributor | GitHub ID | Specialization Areas | Company Affiliation |
+| Reviewer | GitHub ID | Specialization Areas | Company Affiliation |
 | ---- | ---- | ---- | ---- |
 
 ## Contributors

@@ -1,7 +1,7 @@
-# Kagent-dev Org Membership Request
+# Kagent-dev Reviewer Request
 
 <!--
-If you would like to become a member of the organization on GitHub, please submit a PR to the community repo using this template. Give us a few days to review and you should receive an invitation to join.
+If you would like to become a Reviewer in the kagent-dev organization on GitHub, please submit a PR to the community repo using this template. Give us a few days to review and you should receive an invitation to join.
 -->
 
 GitHub user ID:

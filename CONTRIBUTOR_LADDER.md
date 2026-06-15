@@ -4,7 +4,7 @@ This document describes the set of roles individuals may have within the communi
 
 * [Contributor Ladder](#contributor-ladder)
     * [Contributor](#contributor)
-    * [Organization Member](#organization-member)
+    * [Reviewer](#reviewer)
     * [Maintainer](#maintainer)
 
 ## Contributor Ladder
@@ -29,11 +29,11 @@ A Contributor contributes directly to the project and adds value to it. Contribu
     * Run or help run events
     * Promote the project in public
 
-### Organization Member
+### Reviewer
 
-An Organization Member is an established contributor who regularly participates in the project. Organization Members have privileges in the project repositories, and as such are expected to act in the interests of the whole project.
+A Reviewer is an established contributor who regularly participates in the project. Reviewers have privileges in the project repositories, and as such are expected to act in the interests of the whole project.
 
-An Organization Member must meet the responsibilities and has the requirements of a Contributor, plus:
+A Reviewer must meet the responsibilities and has the requirements of a Contributor, plus:
 
 * Responsibilities include:
     * Continues to contribute regularly, as demonstrated by having at least 3 GitHub contributions per year, as shown by [devstats](https://devstats.cncf.io/).
@@ -47,21 +47,21 @@ An Organization Member must meet the responsibilities and has the requirements o
     * May give commands to CI/CD automation.
     * May label/triage issues.
 
-To apply to become a member of the kagent-dev organization on GitHub, please open a GitHub PR in the community repository that contains the following:
-1. Use the [membership request template](.github/PULL_REQUEST_TEMPLATE/apply_to_be_a_member.md).
+To apply to become a Reviewer in the kagent-dev organization on GitHub, please open a GitHub PR in the community repository that contains the following:
+1. Use the [reviewer request template](.github/PULL_REQUEST_TEMPLATE/apply_to_be_a_reviewer.md).
 
 ### Maintainer
 
 Maintainers are very established contributors who are responsible for the entire project. As such, they have the ability to approve PRs against any area of the repository or repositories they maintain, and are expected to participate in making decisions about the strategy and priorities of the project.
 
-A Maintainer must meet the responsibilities and requirements of an Organization Member, plus:
+A Maintainer must meet the responsibilities and requirements of a Reviewer, plus:
 
 * Responsibilities include:
     * Reviewing at least 3 PRs per year, especially PRs that involve multiple parts of the project
     * Mentoring other contributors
     * Determining strategy and policy for the project
 * Requirements
-    * Experience as an Organization Member for at least 3 months
+    * Experience as a Reviewer for at least 3 months
     * Has reviewed, or helped review, at least 20 Pull Requests
     * Has at least 20 substantial PRs merged to the codebase
     * Demonstrates a broad knowledge of the project across multiple areas
@@ -71,7 +71,7 @@ A Maintainer must meet the responsibilities and requirements of an Organization 
     * Represents the project in public as a Maintainer
     * Has a vote in Maintainer decision-making discussions
     
-Any current Maintainer may nominate a current Organization Member to become a new Maintainer in one or more repositories, by opening a PR in the community repository using the [maintainer nomination template](.github/PULL_REQUEST_TEMPLATE/nominate_a_maintainer.md). The following requirements must be met before the PR is merged:
+Any current Maintainer may nominate a current Reviewer to become a new Maintainer in one or more repositories, by opening a PR in the community repository using the [maintainer nomination template](.github/PULL_REQUEST_TEMPLATE/nominate_a_maintainer.md). The following requirements must be met before the PR is merged:
 1. Each item in the template checklist must be satisfied.
 1. At least 2 current Maintainers from each relevant repository must approve the PR.
 1. There must be no objections from other maintainers. This can be achieved by either of the following, whichever occurs first:
